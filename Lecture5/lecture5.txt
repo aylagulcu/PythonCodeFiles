@@ -1,0 +1,2 @@
+Recursive functions
+Functional programming tools: lambda functions, map, filter, reduce
